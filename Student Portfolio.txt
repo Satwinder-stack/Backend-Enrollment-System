@@ -1,0 +1,28 @@
+Name: Sat
+Age: 19
+Requirements available: 
+	-Birth certificate
+	-Graduation Certificate
+
+
+Applying for scholarship? (Yes/No): Yes
+
+Living outside of Angeles City? (Yes/No): Yes
+
+Willing to take a dorm? (Yes/No): Yes
+
+ The needed courses for your program are: 
+Minor Subjects: 
+-PE3 (2 units) 
+-Ethics (3 units) 
+-Calculus (3 units) 
+
+Major Subjects: 
+-Object-Oriented Programming  (3 units)
+-Operating Systems Application (3 units) 
+-Data Structures and Algorithms (3 units) 
+-Introduction to Web Programming (3 units) 
+-Ethics for Computing Professionals (3 units)  
+ 
+
+Section for all subjects: A-31
